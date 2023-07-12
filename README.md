@@ -3,7 +3,7 @@ I’m currently working at Paul Smith Ltd<br>
 I’m currently learning Laravel, GraphQl<br>
 I have too many chrome tabs open
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradarch) 
 
 # Stack:
@@ -13,7 +13,7 @@ I have too many chrome tabs open
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsbreadd&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbreadd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Bye bye
+# Bye bye
 <img src="https://gifdb.com/images/high/one-piece-funny-luffy-and-zoro-snkswztgq8yfuckv.webp" width="512px"/>
 
 ---
