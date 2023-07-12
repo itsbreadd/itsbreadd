@@ -1,7 +1,7 @@
 # About Me:
-I’m currently working with Paul Smith Ltd<br>
+I’m currently working at Paul Smith Ltd<br>
 I’m currently learning Laravel, GraphQl<br>
-I have too many chrome tabs open<br>
+I have too many chrome tabs open
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bradarch) 
