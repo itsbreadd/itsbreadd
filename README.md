@@ -1,6 +1,5 @@
 # About Me:
 I’m currently working at Paul Smith Ltd<br>
-I’m currently learning Laravel, GraphQl<br>
 I have too many chrome tabs open
 
 # Socials:
